@@ -1,0 +1,19 @@
+*** Relatorio de Aluno ***
+
+ Aluno: °¹Iþ 
+
+ Notas: 0.000000 0.000000 
+
+ Media: 0.000000 
+
+ Aluno: andre 
+
+ Notas: 5.000000 6.000000 
+
+ Media: 0.000000 
+
+ Aluno:  
+
+ Notas: 0.000000 551840.000000 
+
+ Media: 0.000000 

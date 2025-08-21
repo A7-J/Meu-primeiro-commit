@@ -1,0 +1,2 @@
+sala|Toda estrutura de struct pode ser um tipo
+quarto1|ctrl + b
